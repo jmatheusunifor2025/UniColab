@@ -1,0 +1,6 @@
+{
+  "name": "UniColab",
+  "description": "Uma plataforma inteligente e colaborativa para preparação dos estudantes para o ENADE, incluindo simulados, dashboard de progresso, fórum de discussão e auxílio de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
